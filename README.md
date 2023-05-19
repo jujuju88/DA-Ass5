@@ -17,7 +17,7 @@ There are some errors in the predictions of the exact location of where each sei
 Most of the predictions are based on the ml, md,mb techniques or algorithms to calculate the magnitude. So we can explore further these techniques and
 improve the accuracy for the future.
 
-Next, we use a line plot to visually the patterns of the average seismic level for the last month. The magnitude alternate within 1.25 and 1.75 which 
+Next, we use a line plot to visually the patterns of the average seismic level for the last month. The magnitudes alternate within 1.25 and 1.75 which 
 is consistent and we shouldn't be worried for major earthquakes.
 
 Then, we went on to explore which level of depths in km were causing the magnitudes of seismic events. At level 6 were the highest average magnitude.
